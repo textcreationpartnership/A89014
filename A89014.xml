@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Cardinal Mazarini touching his departure out of France, justifying himself from all those things laid to his charge by the princes and Parliament: with the Princes and Parliaments message to the King of France, touching his return to Paris, and their declaration of submission to his Majesty. Also, a perfect narrative of the last great and terrible fight between the English fleet under Sir George Ascue, and the Dutch navy under Admiral de Witte, and the losse on both sides impartially related, and the recruiting of the English fleet with 500 fresh men. Likewise, great nuor nrw b598 and nrw b598/upd and fishermen gone Northwards, and their taking of divers English fishermen, and barks comming from Iseland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89014</idno>
+            <idno type="STC">Wing M1539</idno>
+            <idno type="STC">Thomason E674_11</idno>
+            <idno type="STC">ESTC R207201</idno>
+            <idno type="EEBO-CITATION">99866271</idno>
+            <idno type="PROQUEST">99866271</idno>
+            <idno type="VID">166276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166276)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Cardinal Mazarini touching his departure out of France, justifying himself from all those things laid to his charge by the princes and Parliament: with the Princes and Parliaments message to the King of France, touching his return to Paris, and their declaration of submission to his Majesty. Also, a perfect narrative of the last great and terrible fight between the English fleet under Sir George Ascue, and the Dutch navy under Admiral de Witte, and the losse on both sides impartially related, and the recruiting of the English fleet with 500 fresh men. Likewise, great nuor nrw b598 and nrw b598/upd and fishermen gone Northwards, and their taking of divers English fishermen, and barks comming from Iseland.</title>
+                  <author>Mazarin, Jules, 1602-1661, Attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact by Cardinal Mazarin, but a news report of his expulsion from office.</note>
+                  <note>Annotation on Thomason copy: "August. 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mazarin, Jules, 1602-1661.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166276:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of the Cardinal MAZARINI Touching His departure out of France, juſtifying himſelf from all thoſe things laid to his charge by the Princes and Parlia<g ref="char:EOLhyphen"/>ment: with the Princes and Parliaments meſſage to the King of France, touching his return to Paris, and their Declaration of ſubmiſſion to his Majeſty.</p>
+            <p>Alſo, A perfect Narrative of the laſt great and terrible fight be<g ref="char:EOLhyphen"/>tween the Engliſh Fleet under Sir George Aſcue, and the Dutch Navy under Admiral de Witte, and the loſſe on both ſides impartially related, and the recruiting of the Engliſh Fleet with 500 freſh men.</p>
+            <p>Likewiſe, Great numbers of the Dutchmen of war and Fiſhermen gone Northwards, and their taking of divers Engliſh Fiſher<g ref="char:EOLhyphen"/>men, and Barks comming from Iſeland.</p>
+            <p>
+               <date>
+                  <add>August-24</add>
+               </date>
+            </p>
+            <p>London, Printed for <hi>M. M.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166276:2"/>
+            <pb n="3" facs="tcp:166276:2"/>
+            <head>THE DECLARATION Of the Cardinal MAZARINE, Touching His departure out of France, juſtifying himſelf from all thoſe things laid to his charge by the Princes and Par<g ref="char:EOLhyphen"/>liament. VVith the Princes and Parliaments Meſſage to the King.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THat which this Kingdome, and in eſpecial this Ci<g ref="char:EOLhyphen"/>ty have much deſired and long expected, is now come to paſſe, viz. the Cardinals departure, with the Kings conſent; yet before he went, he cauſed his new Parliament at Ponthoiſe to approve and regiſter a Decla<g ref="char:EOLhyphen"/>ration wherein he Declares, <hi>That his comming into France
+<pb n="4" facs="tcp:166276:3"/>
+was onely out of Love to his Majeſty, and deſire to do him ſer<g ref="char:EOLhyphen"/>vice, and to procure the peace and tranquility of the People, being not guilty in the least of thoſe things which the Prin<g ref="char:EOLhyphen"/>ces and Parliament charge him withal.</hi> The regiſtring of this Declaration is not well reſented by the Princes and Parliament of Paris, but filleth their head with jealou<g ref="char:EOLhyphen"/>ſies, making them very ſuſpicious of an after Game to be plaid.</p>
+            <p>They have notwithſtanding ſent two Commiſſioners to his Majeſtie, with a Meſſage of <hi>Thanks for his giving conſent to the removal of the Cardinal, and withal promiſe that they will ſubmit themſelves to his Majeſty, and be rea<g ref="char:EOLhyphen"/>dy to expoſe their Lives, Fortunes, and Eſtates to all dan<g ref="char:EOLhyphen"/>gers and hazards whatſoever in his Royal Majeſties ſervice; deſiring his Majeſtie, that he will be pleaſed in the mean ſeaſon to return to Paris.</hi>
+            </p>
+            <p>His Majeſty hath promiſed to return ſo ſoon as may be with conveniency: They have thereupon paſſed a large Declaration to the aforeſaid purpoſe, which hath been regiſtred. The Cardinal is now on his way to go for the Borders, but whether he will remain at Metz, is very du<g ref="char:EOLhyphen"/>bious, but it is thought he will rather go to the Caſtle of Bovillon, which is near, but not within the French domi<g ref="char:EOLhyphen"/>nions. There is a confirmation come from Rochel of the overthrow given by the Duke of Vendoſm High Admi<g ref="char:EOLhyphen"/>ral of France, to the Spaniſh Navy near the Town of Brouage; The Spaniſh General layeth the fault thereof to the Count of Daugnon, who having a ſmall Fleet, had ſo much honeſty as to ſee his friends engaged, and not to go out to their aſſiſtance, whereby the Spaniſh fleet was forced to relire to S. Sebaſtians in Biſcaya, with the loſs of the Admiral burned, one ſhip of about fourty Guns ſunk, and another of a leſſer burthen.</p>
+            <p>The French having called a Councel of VVar to con<g ref="char:EOLhyphen"/>ſult
+<pb n="5" facs="tcp:166276:3"/>
+what was moſt fit to be done, whether they ſhould purſue the Spaniſh fleet or not, the Duke of Vendoſm in the interim received a packet, wherein was contained the moſt ſad and u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>welcome news of the death of the valiant Duke of Nemours his ſon in Law, who was ſlain by his younger ſon the Duke of Beaufort, which tidings ſtruck ſo near his heart. that waving all publick affaires he reti<g ref="char:EOLhyphen"/>red privately to himſelf for that day, and thus the deſign of purſuing their victory was impeded and laid aſide, and the Fleet is come back again to Rochel, which is now wholly ſet at liberty both by ſea and land. The Count du Daugnon lyeth ſtill at Brouage, but not in a capacity of undertaking any thing againſt the King party.</p>
+            <p>Marſhal de la Meſleray hath been of late at Angiers, where he hath placed a Gariſon of two thouſand men, and hath ſet upon them very heavy Taxations, which doth much diſtract them, and they are not a little grieved that they left their old Governour for a new. The Count de H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t doth ſtill continue his Siege before Villa<g ref="char:EOLhyphen"/>nova, but doth gain but little: the place hath had ſome reliei from the General Marcin of three hundred Volun<g ref="char:EOLhyphen"/>tiers, beſides thirty Officers.</p>
+            <p>The Kings Army is ſtill about S. Cloud, and the Prin<g ref="char:EOLhyphen"/>ces about their old quarters, but both of them at the pre<g ref="char:EOLhyphen"/>ſent lie ſtill. The Court is at Champaigne, but it is not probable that it ſhould continue there long, by reaſon that there are no proviſions for their ſubſiſtance. The town of Dunkirk is ſtill cloſely blocked up by ſea and land, and great diſcontent is among the Officers and ſoul<g ref="char:EOLhyphen"/>diers, which is like to be very prejudicial to that town.</p>
+            <closer>
+               <dateline>Paris,
+<date>Aug. 25.</date>
+               </dateline>
+               <signed>Yours, &amp;c. <hi>R.H.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166276:4"/>
+            <head>A Letter from Plymouth containing the full relation of the last great and bloudy fight between Sir George Aſcue, and the Dutch Fleet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Know that you cannot but have heard of the late great fight on theſe Coaſts between the Engliſh and Dutch Fleets, but not knowing how things may be repreſented to you, I thought good to preſent you with the moſt par<g ref="char:EOLhyphen"/>ticular relation of the fight which I could gather, which is as followeth: Upon diſcovery of the Dutch Fleet ye<g ref="char:EOLhyphen"/>ſterday about one of the clock, a Councel of war was preſently called, and it was reſolved to fight them if they would ſtand, and accordingly, Sir George Aſcue ſailed and put up towards them and about 4 a clock that night came up to them and ingaged, and the fight was very hot, we had loſſe of ſome precious men, but without doubt the Dutch ſuſtained a very conſiderable loſſe. The fight con<g ref="char:EOLhyphen"/>tinued about four hours, ſo that about 8 a clock it grow<g ref="char:EOLhyphen"/>ing dark, they were forced to leave off. The George and the Bonaventure, being much ſhattered and ready to ſink came in hither, and are mending, Capt. Packs leg is ſhot off in the fight, he was brought hither in a Ketch from the Fleet, and Capt. Liſle hath a wound in his ſhoulder, that we fear will prove mortal. The Admiral and the reſt fought with great valour and gallantry. The Admiral loſt
+<pb n="7" facs="tcp:166276:4"/>
+in her 12 men and received 60 ſhot in her hull, and ſo di<g ref="char:EOLhyphen"/>vers others have received loſſe, and we have many woun<g ref="char:EOLhyphen"/>ded men. Sir George Aſcue kept as much as he could in ken of them all night, and is reſolved if poſſible to ingage them this day.</p>
+            <p>The number of the Dutch that ingaged were 55 men of war, and 25 Merchant men, we were but 41. Our Vice Admirall, and Rear-Admiral, with about five or ſix others, broke through their whole Fleet, ſo as the five and twenty Merchant men ranne away to the Coaſts of France.</p>
+            <p>Their men of war notwithſtanding, have been in con<g ref="char:EOLhyphen"/>tinual fight Munday, Tueſday, and Wedneſday, and it is conceived might ſo continue untill this time, ſo that the particulars cannot be fully certified as yet, there have come about 100 wounded men to Plymouth from Sir George Aſcue, but this hath been ſupplied with 500 ſtout men from Plymouth to recruit his Fleet.</p>
+            <p>For further particulars, I can not certainly inform you, onely it is ſaid Sir George hath taken ſeventeen, ſunk five, fired two, with the loſſe before mentioned, to this agree the relation of moſt men here, I have no more at preſent but reſt,</p>
+            <closer>
+               <dateline>Plymouth
+<date>August, 19.</date>
+               </dateline>
+               <signed>Your aſſured friend, <hi>R. B.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Postſcript.</head>
+               <p>Juſt now I had intelligence, that the five hundred men ſent from this Town to Sir George, deported themſelves with ſingular dexterity and courage, but many of them are ſlain, and about ſixty wounded. This hath been the bloudieſt conflict that ever hapned between the two Re<g ref="char:EOLhyphen"/>publicks.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:166276:5"/>
+            <head>A Letter from Yarmouth, dated Auguſt the <hi>11th 1652.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce the comming of General Blake from the North, the Hollanders are very buſie to the Northward, with a great number of Buſſes, and many men of war for their Convoy, who are moſt of them Pinks, and have ſpread themſelves all abroad. Divers of our Engliſh fiſh<g ref="char:EOLhyphen"/>ſhermen they have taken, as they were returning home fully laden, they have alſo taken ſome of our Barks that were comming from Iſeland, and ſome that appertained to Ailesborough: One of theſe being taken, and carried to Rotterdam, after they had detained it three or four days, was cleared by a ſentence of the Admiralty, both ſhip and goods, and ſent away, and came home ſafe. A<g ref="char:EOLhyphen"/>nother being taken, was alſo carryed thither, and cleared likewiſe; but in her return homewards was met by a private Man of Warre, and by him brought to Zealand. Our coaſt is much infeſted by Dutch Pickeroons, ſo that we are very fearfull we ſhall loſe our whole fiſhing trade for this year.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
